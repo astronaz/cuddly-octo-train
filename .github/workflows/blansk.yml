@@ -4,7 +4,7 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only fo the "main" banch
+  # Triggers the workflow on push or pull request events but only fo the "ain" banch
   push:
     branches: [ "main" ]
   pull_request:
